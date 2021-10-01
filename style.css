@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    margin-top: 0;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 22px;
+}
+.heading_div1{
+    float: none;
+    font-size: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 5px grey;
+    color: navy;
+    border-radius: 20px;
+}
+img{
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
